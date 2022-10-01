@@ -21,6 +21,7 @@ print(queue.pop(0))
 
 print("\nQueue after removing elements")
 print(queue)
+print(wait)
 
 # Uncommenting print(queue.pop(0))
 # will raise and IndexError
